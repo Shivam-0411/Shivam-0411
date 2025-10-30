@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shivam Choudhary  <br>💻 Software Engineer | Full Stack Developer | Football Enthusiast  <br><br>I’m passionate about building scalable web applications and learning new technologies that solve real-world problems.
+👋 Hi, I'm Shivam Choudhary  <br>💻 Software Engineer | Full Stack Developer  <br><br>I’m passionate about building scalable web applications and learning new technologies that solve real-world problems.
 
 
 ## 🌐 Socials:
